@@ -1,0 +1,2 @@
+# ListySO
+repositoria na git
